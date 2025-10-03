@@ -1,0 +1,952 @@
+{
+  "deviceName": "WheelSetup",
+  "presetName": "",
+  "version": "0.9.9375.29102",
+  "deviceSettings": {
+    "ButtonCount": 6,
+    "ButtonOffset": 2,
+    "EncoderTopCount": 0,
+    "EncoderBottomCount": 3,
+    "TelemetryCount": 4,
+    "RPMCount": 15,
+    "SelectedIllustration": 0,
+    "VID": "2E8A",
+    "PID": "1051",
+    "ElementInformation": {
+      "Button": [
+        {
+          "Coordinates": [
+            100.0,
+            90.0
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 27,
+          "LEDCount": 2,
+          "InputIDs": [
+            0,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            152.76908874511719,
+            100.00765228271484
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.16666666666666666
+          ],
+          "Index": 29,
+          "LEDCount": 2,
+          "InputIDs": [
+            1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            188.28359985351563,
+            139.92216491699219
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.33333333333333331
+          ],
+          "Index": 31,
+          "LEDCount": 2,
+          "InputIDs": [
+            2,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            202.57009887695313,
+            192.414306640625
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.5
+          ],
+          "Index": 39,
+          "LEDCount": 2,
+          "InputIDs": [
+            15,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            209.063232421875,
+            246.48602294921875
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.66666666666666663
+          ],
+          "Index": 41,
+          "LEDCount": 2,
+          "InputIDs": [
+            6,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            214.14004516601563,
+            300.7330322265625
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.83333333333333337
+          ],
+          "Index": 43,
+          "LEDCount": 2,
+          "InputIDs": [
+            7,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            219.0,
+            355.0
+          ],
+          "Map_Coordinates": [
+            0.0,
+            1.0
+          ],
+          "Index": 16,
+          "LEDCount": 2,
+          "InputIDs": [
+            8,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            600.0,
+            90.0
+          ],
+          "Map_Coordinates": [
+            1.0,
+            0.0
+          ],
+          "Index": 37,
+          "LEDCount": 2,
+          "InputIDs": [
+            5,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            547.50933837890625,
+            100.57976531982422
+          ],
+          "Map_Coordinates": [
+            1.0,
+            0.16666666666666666
+          ],
+          "Index": 35,
+          "LEDCount": 2,
+          "InputIDs": [
+            4,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            511.88641357421875,
+            140.44525146484375
+          ],
+          "Map_Coordinates": [
+            1.0,
+            0.33333333333333331
+          ],
+          "Index": 33,
+          "LEDCount": 2,
+          "InputIDs": [
+            3,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            497.37109375,
+            192.72943115234375
+          ],
+          "Map_Coordinates": [
+            1.0,
+            0.5
+          ],
+          "Index": 45,
+          "LEDCount": 2,
+          "InputIDs": [
+            16,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            490.9163818359375,
+            246.69874572753906
+          ],
+          "Map_Coordinates": [
+            1.0,
+            0.66666666666666663
+          ],
+          "Index": 47,
+          "LEDCount": 2,
+          "InputIDs": [
+            9,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            485.8502197265625,
+            300.8394775390625
+          ],
+          "Map_Coordinates": [
+            1.0,
+            0.83333333333333337
+          ],
+          "Index": 49,
+          "LEDCount": 2,
+          "InputIDs": [
+            10,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        },
+        {
+          "Coordinates": [
+            481.0,
+            355.0
+          ],
+          "Map_Coordinates": [
+            1.0,
+            1.0
+          ],
+          "Index": 22,
+          "LEDCount": 2,
+          "InputIDs": [
+            11,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 1
+        }
+      ],
+      "EncoderSingle": [
+        {
+          "Coordinates": [
+            280.0,
+            330.0
+          ],
+          "Map_Coordinates": [
+            0.4,
+            0.91666666666666663
+          ],
+          "Index": 51,
+          "LEDCount": 5,
+          "InputIDs": [
+            35,
+            34,
+            38
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 2
+        },
+        {
+          "Coordinates": [
+            350.00106811523438,
+            354.99996948242188
+          ],
+          "Map_Coordinates": [
+            0.5,
+            0.91666666666666663
+          ],
+          "Index": 56,
+          "LEDCount": 5,
+          "InputIDs": [
+            40,
+            39,
+            43
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 2
+        },
+        {
+          "Coordinates": [
+            420.0,
+            330.0
+          ],
+          "Map_Coordinates": [
+            0.60000000000000009,
+            0.91666666666666663
+          ],
+          "Index": 61,
+          "LEDCount": 5,
+          "InputIDs": [
+            45,
+            44,
+            48
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 2
+        },
+        {
+          "Coordinates": [
+            420.0,
+            330.0
+          ],
+          "Map_Coordinates": [
+            0.60000000000000009,
+            0.91666666666666663
+          ],
+          "Index": 56,
+          "LEDCount": 5,
+          "InputIDs": [
+            40,
+            39,
+            43
+          ],
+          "SetupFlag": true,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 2
+        },
+        {
+          "Coordinates": [
+            420.0,
+            330.0
+          ],
+          "Map_Coordinates": [
+            0.60000000000000009,
+            0.91666666666666663
+          ],
+          "Index": 61,
+          "LEDCount": 5,
+          "InputIDs": [
+            45,
+            44,
+            48
+          ],
+          "SetupFlag": true,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 2
+        },
+        {
+          "Coordinates": [
+            420.0,
+            330.0
+          ],
+          "Map_Coordinates": [
+            0.60000000000000009,
+            0.91666666666666663
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 2
+        }
+      ],
+      "Telemetry": [
+        {
+          "Coordinates": [
+            225.0,
+            75.0
+          ],
+          "Map_Coordinates": [
+            0.25,
+            0.0
+          ],
+          "Index": 20,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 6
+        },
+        {
+          "Coordinates": [
+            225.0,
+            93.333328247070312
+          ],
+          "Map_Coordinates": [
+            0.25,
+            0.16666666666666666
+          ],
+          "Index": 19,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 6
+        },
+        {
+          "Coordinates": [
+            225.0,
+            111.66666412353516
+          ],
+          "Map_Coordinates": [
+            0.25,
+            0.33333333333333331
+          ],
+          "Index": 18,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 6
+        },
+        {
+          "Coordinates": [
+            225.0,
+            130.0
+          ],
+          "Map_Coordinates": [
+            0.25,
+            0.5
+          ],
+          "Index": 17,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 6
+        }
+      ],
+      "Telemetry2": [
+        {
+          "Coordinates": [
+            475.0,
+            75.0
+          ],
+          "Map_Coordinates": [
+            0.75,
+            0.0
+          ],
+          "Index": 21,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 7
+        },
+        {
+          "Coordinates": [
+            475.0,
+            93.333328247070312
+          ],
+          "Map_Coordinates": [
+            0.75,
+            0.16666666666666666
+          ],
+          "Index": 22,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 7
+        },
+        {
+          "Coordinates": [
+            475.0,
+            111.66666412353516
+          ],
+          "Map_Coordinates": [
+            0.75,
+            0.33333333333333331
+          ],
+          "Index": 23,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 7
+        },
+        {
+          "Coordinates": [
+            475.0,
+            130.0
+          ],
+          "Map_Coordinates": [
+            0.75,
+            0.5
+          ],
+          "Index": 24,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 7
+        }
+      ],
+      "RPM": [
+        {
+          "Coordinates": [
+            219.2359619140625,
+            50.434860229492188
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 15,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            237.80450439453125,
+            47.940738677978516
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            256.439208984375,
+            45.997459411621094
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            275.11468505859375,
+            44.4929084777832
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            293.8170166015625,
+            43.371353149414062
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            312.53707885742188,
+            42.59759521484375
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            331.26773071289062,
+            42.146759033203125
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            350.00323486328125,
+            41.999996185302734
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            368.73797607421875,
+            42.22784423828125
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            387.467529296875,
+            42.7232666015625
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            406.18856811523438,
+            43.4744758605957
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            424.89566040039062,
+            44.515834808349609
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            443.57940673828125,
+            45.913261413574219
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            462.2216796875,
+            47.781585693359375
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            480.78131103515625,
+            50.336017608642578
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        },
+        {
+          "Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 9
+        }
+      ]
+    }
+  }
+}
