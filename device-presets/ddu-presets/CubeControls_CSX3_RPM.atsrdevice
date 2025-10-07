@@ -1,0 +1,14 @@
+{
+  "deviceName": "DDUSetup",
+  "presetName": "",
+  "version": "0.9.9396.37543",
+  "deviceSettings": {
+    "RPMCount": 11,
+    "LeftCount": 3,
+    "RightCount": 3,
+    "SpacingSize": 2,
+    "HasSpacing": false,
+    "VID": "C872",
+    "PID": "2008"
+  }
+}
