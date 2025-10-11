@@ -8,12 +8,10 @@
     "/>
 </div>
 
-<hr>
-
 <div align=center 
     style="
-        margin-top:35px; 
-        margin-bottom:35px
+        margin-top:15px; 
+        margin-bottom:50px
     ">
     <blockquote>
         „ATSR-Hub EVO - More than just fancy lighting“
@@ -24,6 +22,8 @@
     </blockquote>
 </div>
 
+
+
 <div>
     <h2>What's included?</h2>
 </div>
@@ -32,8 +32,8 @@
     <h3>ATSR-Hub EVO includes profiles for ALL your devices!</h3>
     <img src="./images/SupportedDevices.png" width=600
     style="
-        margin-top:10px; 
-        margin-bottom:10px
+        margin-top:30px; 
+        margin-bottom:30px
     "/>
 </div>
 <p style="text-align:justify">
@@ -45,14 +45,38 @@
 <div align=center>
     <img src="./images/EffectEditor.png" width=550
     style="
-        margin-top:10px; 
-        margin-bottom:10px
+        margin-top:20px; 
+        margin-bottom:20px
     "/>
 </div>
+<p style="text-align:justify; margin-bottom:50px;">
+    ATSR-Hub EVO comes with all the features a Simracer needs! From TC, ABS and Spotter alerts to input based effects and car-specific shift lights for hundreds of cars across various games (Powered by the <a href="https://github.com/Lovely-Sim-Racing/lovely-car-data/tree/main/data">Lovely Car Data</a> repository - a joint project between <strong>ATSR, Lovely Sim Racing and Gomez Sim Industries</strong>).
+</p>
+
 
 <div>
     <h2>Installation</h2>
 </div>
+
+<p style="text-align:justify; margin-bottom:50px;">
+    Download the latest plugin file (<code>ATSR_Hub_EVO.dll</code>) and place it into your SimHub directory (<code>C:\Program Files (x86)\SimHub</code> by default). Verify that SimHub is closed before placing the file into the directory.
+    </br>
+    </br>
+    Open SimHub and activate the ATSR-Hub EVO plugin. A prompt to activate should pop-up when starting SimHub. If this is not the case, click on <strong>Add/remove features</strong> on the left main menu and activate the plugin manually. It is recommended to enable the <strong>show in left main menu</strong> option for quick and easy access.
+    </br>
+    </br>
+    ATSR-Hub EVO should now be visible in SimHub. You are now all set to use the plugin.
+</p>
+
+
+
+<div>
+    <h2>Memberships</h2>
+</div>
+
+
+
+
 
 <div>
     <h2>License</h2>
