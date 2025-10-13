@@ -11,7 +11,7 @@
 <div align=center 
     style="
         margin-top:15px; 
-        margin-bottom:50px
+        margin-bottom:100px
     ">
     <blockquote>
         „ATSR-Hub EVO - More than just fancy lighting“
@@ -22,7 +22,10 @@
     </blockquote>
 </div>
 
-
+<p>
+    </br>
+    </br>
+</p>
 
 <div>
     <h2>What's included?</h2>
@@ -51,6 +54,9 @@
 </div>
 <p style="text-align:justify; margin-bottom:50px;">
     ATSR-Hub EVO comes with all the features a Simracer needs! From TC, ABS and Spotter alerts to input based effects and car-specific shift lights for hundreds of cars across various games (Powered by the <a href="https://github.com/Lovely-Sim-Racing/lovely-car-data/tree/main/data">Lovely Car Data</a> repository - a joint project between <strong>ATSR, Lovely Sim Racing and Gomez Sim Industries</strong>).
+    </br>
+    </br>
+    </br>
 </p>
 
 
@@ -66,6 +72,9 @@
     </br>
     </br>
     ATSR-Hub EVO should now be visible in SimHub. You are now all set to use the plugin.
+    </br>
+    </br>
+    </br>
 </p>
 
 
