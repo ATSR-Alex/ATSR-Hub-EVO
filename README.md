@@ -59,7 +59,7 @@
 </div>
 
 <p style="text-align:justify; margin-bottom:50px;">
-    Download the latest plugin file (<code>ATSR_Hub_EVO.dll</code>) and place it into your SimHub directory (<code>C:\Program Files (x86)\SimHub</code> by default). Verify that SimHub is closed before placing the file into the directory.
+    Download the <a href="https://github.com/ATSR-Alex/ATSR-Hub-EVO/releases">latest plugin file</a> (<code>ATSR_Hub_EVO.dll</code>) and place it into your SimHub directory (<code>C:\Program Files (x86)\SimHub</code> by default). Verify that SimHub is closed before placing the file into the directory.
     </br>
     </br>
     Open SimHub and activate the ATSR-Hub EVO plugin. A prompt to activate should pop-up when starting SimHub. If this is not the case, click on <strong>Add/remove features</strong> on the left main menu and activate the plugin manually. It is recommended to enable the <strong>show in left main menu</strong> option for quick and easy access.
@@ -74,8 +74,63 @@
     <h2>Memberships</h2>
 </div>
 
+<p style="text-align:justify; margin-bottom:20px;">
+    Memberships have been introduced into ATSR-Hub EVO as an option to support this project. 
+    ATSR-Hub EVO offers a great amount of profiles and features for free – Users who choose to support the development of the plugin will receive extra perks as a way of saying thank you.
+</p>
 
-
+<div style="margin:0px 0; text-align:center; width:450px; font-family:Segoe UI, sans-serif; color:#fff; background:#101010; padding:1px; border-radius:20px; margin: 0 auto; margin-bottom:50px">
+    <h3 style="font-size:1.5rem; font-weight:600; margin-bottom:8px;">Premium Tier</h3>
+    <img src="images/Diamond.png" alt="Diamond Logo" style="width:40px; height:auto;"/>
+    <div style="margin:10px auto 0; display:flex; flex-direction:column; align-items:center;">
+        <div style="width:350px; height:0.5px; background:#808080; border-radius:18px; margin:10px 0;">
+        </div>
+            <div style="width:280px; display:flex; align-items:left; gap:10px; margin:6px 0;">
+                <img src="images/Star.png" alt="" style="height:25px;"/>
+                <span><strong>Unlimited Steering Wheel Profiles</strong></span>
+            </div>
+            <div style="width:280px; display:flex; align-items:left; gap:10px; margin:6px 0;">
+                <img src="images/Star.png" alt="" style="height:25px;"/>
+                <span><strong>Unlimited Button Box Profiles</strong></span>
+            </div>
+            <div style="width:280px; display:flex; align-items:left; gap:10px; margin:6px 0;">
+                <img src="images/Star.png" alt="" style="height:25px;"/>
+                <span><strong>Unlimited Matrix Profiles</strong></span>
+            </div>
+            <div style="width:280px; display:flex; align-items:left; gap:10px; margin:6px 0;">
+                <img src="images/Star.png" alt="" style="height:25px;"/>
+                <span><strong>Unlimited Brow Profiles</strong></span>
+            </div>
+            <div style="width:280px; display:flex; align-items:left; gap:10px; margin:6px 0;">
+                <img src="images/Star.png" alt="" style="height:25px;"/>
+                <span><strong>Unlimited DDU Profiles</strong></span>
+            </div>
+            <div style="width:280px; display:flex; align-items:left; gap:10px; margin:6px 0;">
+                <img src="images/Star.png" alt="" style="height:25px;"/>
+                <span><strong>Unlimited Effect Presets</strong></span>
+            </div>
+            <div style="width:280px; display:flex; align-items:left; gap:10px; margin:6px 0;">
+                <img src="images/Star.png" alt="" style="height:25px;"/>
+                <span><strong>Unlimited Custom Theme Presets</strong></span>
+            </div>
+            <div style="width:280px; display:flex; align-items:left; gap:10px; margin:6px 0;">
+                <img src="images/Star.png" alt="" style="height:25px;"/>
+                <span><strong>2 Additional Custom Themes</strong></span>
+            </div>
+            <div style="width:280px; display:flex; align-items:left; gap:10px; margin:6px 0;">
+                <img src="images/Star.png" alt="" style="height:25px;"/>
+                <span><strong>3 Additional Marshal Flag Styles</strong></span>
+            </div>
+            <div style="width:280px; display:flex; align-items:left; gap:10px; margin:6px 0;">
+                <img src="images/Star.png" alt="" style="height:25px;"/>
+                <span><strong>Dual-Color Pit Limiter Animations</strong></span>
+            </div>
+        <a href="https://ko-fi.com/atsrprofiles"
+            style="display:inline-block; text-decoration:none; background:#0088ff; color:white; font-weight:500; padding:10px 25px; border-radius:10px; margin-top:15px; margin-bottom:20px; font-family:Segoe UI, sans-serif;">
+            Become a Member
+        </a>
+    </div>
+</div>
 
 
 <div>
