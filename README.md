@@ -96,44 +96,34 @@
 </div>
 <div align=center width=400 style="margin-top:15px; margin-bottom:20px">
     <div width=280 align=center alt="" style="height:20px;">
-        <img src="images/Star.png" height=20px/>
-        <span>Unlimited Steering Wheel Profiles</span>
+        <span>✯ Unlimited Steering Wheel Profiles</span>
     </div>
     <div width=280 align=center>
-        <img src="images/Star.png" alt="" style="height:20px;"/>
-        <span>Unlimited Button Box Profiles</span>
+        <span>✯ Unlimited Button Box Profiles</span>
     </div>
     <div width=280 align=center>
-        <img src="images/Star.png" alt="" style="height:20px;"/>
-        <span>Unlimited Matrix Profiles</span>
+        <span>✯ Unlimited Matrix Profiles</span>
     </div>
     <div width=280 align=center>
-        <img src="images/Star.png" alt="" style="height:20px;"/>
-        <span>Unlimited Brow Profiles</span>
+        <span>✯ Unlimited Brow Profiles</span>
     </div>
     <div width=280 align=center>
-        <img src="images/Star.png" alt="" style="height:20px;"/>
-        <span>Unlimited DDU Profiles</span>
+        <span>✯ Unlimited DDU Profiles</span>
     </div>
     <div width=280 align=center>
-        <img src="images/Star.png" alt="" style="height:20px;"/>
-        <span>Unlimited Effect Presets</span>
+        <span>✯ Unlimited Effect Presets</span>
     </div>
     <div width=280 align=center>
-        <img src="images/Star.png" alt="" style="height:20px;"/>
-        <span>2 Additional Custom Themes</span>
+        <span>✯ 2 Additional Custom Themes</span>
     </div>
     <div width=280 align=center>
-        <img src="images/Star.png" alt="" style="height:20px;"/>
-        <span>3 Additional Marshal Flag Styles</span>
+        <span>✯ 3 Additional Marshal Flag Styles</span>
     </div>
     <div width=280 align=center>
-        <img src="images/Star.png" alt="" style="height:20px;"/>
-        <span>Unlimited Custom Theme Presets</span>
+        <span>✯ Unlimited Custom Theme Presets</span>
     </div>
     <div width=280 align=center>
-        <img src="images/Star.png" alt="" style="height:20px;"/>
-        <span>Dual-Color Pit Limiter Animations</span>
+        <span>✯ Dual-Color Pit Limiter Animations</span>
     </div>
 </div>
 
