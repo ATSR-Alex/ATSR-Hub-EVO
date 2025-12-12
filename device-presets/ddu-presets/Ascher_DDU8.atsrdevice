@@ -1,0 +1,14 @@
+{
+  "deviceName": "DDUSetup",
+  "presetName": "",
+  "version": "1.2.0.22418",
+  "deviceSettings": {
+    "RPMCount": 16,
+    "LeftCount": 5,
+    "RightCount": 5,
+    "SpacingSize": 2,
+    "HasSpacing": false,
+    "VID": "",
+    "PID": ""
+  }
+}
