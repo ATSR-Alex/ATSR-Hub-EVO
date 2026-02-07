@@ -3,15 +3,15 @@
   "presetName": "",
   "version": "1.3.0.0",
   "deviceSettings": {
-    "ButtonCount": 4,
-    "ButtonOffset": 1,
-    "EncoderTopCount": 0,
+    "ButtonCount": 5,
+    "ButtonOffset": 2,
+    "EncoderTopCount": 2,
     "EncoderBottomCount": 3,
-    "TelemetryCount": 0,
+    "TelemetryCount": 3,
     "RPMCount": 12,
     "SelectedIllustration": 1,
-    "VID": "3514",
-    "PID": "000E",
+    "VID": "",
+    "PID": "",
     "ElementInformation": {
       "Button": [
         {
@@ -23,44 +23,68 @@
             0.0,
             0.0
           ],
-          "Index": 12,
-          "LEDCount": 1,
-          "PositionCount": 0,
+          "Index": 0,
+          "LEDCount": 4,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
-            0,
+            -1,
             -1,
             -1
           ],
           "SetupFlag": true,
           "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
-            173.97747802734375,
-            116.87256622314453
+            152.76908874511719,
+            100.00765228271484
           ],
           "Map_Coordinates": [
             0.0,
-            0.25
+            0.16666666666666666
           ],
-          "Index": 13,
-          "LEDCount": 1,
-          "PositionCount": 0,
+          "Index": 4,
+          "LEDCount": 4,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
-            1,
+            -1,
             -1,
             -1
           ],
           "SetupFlag": true,
           "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
+        },
+        {
+          "Coordinates": [
+            188.28359985351563,
+            139.92216491699219
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.33333333333333331
+          ],
+          "Index": 8,
+          "LEDCount": 4,
+          "PositionCount": 1,
+          "LedsPerDetent": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -71,68 +95,44 @@
             0.0,
             0.5
           ],
-          "Index": 14,
-          "LEDCount": 1,
-          "PositionCount": 0,
+          "Index": 12,
+          "LEDCount": 4,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
-            2,
+            -1,
             -1,
             -1
           ],
           "SetupFlag": true,
           "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
-            211.62918090820313,
-            273.60699462890625
+            209.063232421875,
+            246.48602294921875
           ],
           "Map_Coordinates": [
             0.0,
-            0.75
+            0.66666666666666663
           ],
-          "Index": 15,
-          "LEDCount": 1,
-          "PositionCount": 0,
+          "Index": 16,
+          "LEDCount": 4,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
-            3,
+            -1,
             -1,
             -1
           ],
           "SetupFlag": true,
           "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
-        },
-        {
-          "Coordinates": [
-            213.14215087890625,
-            289.882080078125
-          ],
-          "Map_Coordinates": [
-            0.0,
-            0.8
-          ],
-          "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
-          "LedsPerDetent": 1,
-          "InputIDs": [
-            -1,
-            -1,
-            -1
-          ],
-          "SetupFlag": false,
-          "IsElement": false,
-          "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -144,8 +144,8 @@
             0.0
           ],
           "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
+          "LEDCount": 4,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -155,8 +155,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -168,8 +168,8 @@
             0.0
           ],
           "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
+          "LEDCount": 4,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -179,8 +179,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -191,44 +191,68 @@
             1.0,
             0.0
           ],
-          "Index": 16,
-          "LEDCount": 1,
-          "PositionCount": 0,
+          "Index": 77,
+          "LEDCount": 4,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
-            4,
+            -1,
             -1,
             -1
           ],
           "SetupFlag": true,
           "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
-            526.500244140625,
-            117.63095855712891
+            547.50933837890625,
+            100.57976531982422
           ],
           "Map_Coordinates": [
             1.0,
-            0.25
+            0.16666666666666666
           ],
-          "Index": 17,
-          "LEDCount": 1,
-          "PositionCount": 0,
+          "Index": 73,
+          "LEDCount": 4,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
-            5,
+            -1,
             -1,
             -1
           ],
           "SetupFlag": true,
           "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
+        },
+        {
+          "Coordinates": [
+            511.88641357421875,
+            140.44525146484375
+          ],
+          "Map_Coordinates": [
+            1.0,
+            0.33333333333333331
+          ],
+          "Index": 69,
+          "LEDCount": 4,
+          "PositionCount": 1,
+          "LedsPerDetent": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -239,68 +263,44 @@
             1.0,
             0.5
           ],
-          "Index": 18,
-          "LEDCount": 1,
-          "PositionCount": 0,
+          "Index": 65,
+          "LEDCount": 4,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
-            6,
+            -1,
             -1,
             -1
           ],
           "SetupFlag": true,
           "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
-            488.35586547851562,
-            273.76654052734375
+            490.9163818359375,
+            246.69874572753906
           ],
           "Map_Coordinates": [
             1.0,
-            0.75
+            0.66666666666666663
           ],
-          "Index": 19,
-          "LEDCount": 1,
-          "PositionCount": 0,
+          "Index": 61,
+          "LEDCount": 4,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
-            7,
+            -1,
             -1,
             -1
           ],
           "SetupFlag": true,
           "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
-        },
-        {
-          "Coordinates": [
-            486.8460693359375,
-            290.009765625
-          ],
-          "Map_Coordinates": [
-            1.0,
-            0.8
-          ],
-          "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
-          "LedsPerDetent": 1,
-          "InputIDs": [
-            -1,
-            -1,
-            -1
-          ],
-          "SetupFlag": false,
-          "IsElement": false,
-          "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -312,8 +312,8 @@
             0.0
           ],
           "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
+          "LEDCount": 4,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -323,8 +323,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -336,8 +336,8 @@
             0.0
           ],
           "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
+          "LEDCount": 4,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -347,11 +347,59 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 1
+          "Type": 1,
+          "ReverseEncoderButtonIds": false
         }
       ],
       "EncoderSingle": [
+        {
+          "Coordinates": [
+            303.03536987304688,
+            224.62359619140625
+          ],
+          "Map_Coordinates": [
+            0.4,
+            0.58333333333333337
+          ],
+          "Index": 26,
+          "LEDCount": 13,
+          "PositionCount": 13,
+          "LedsPerDetent": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": true,
+          "Type": 5,
+          "ReverseEncoderButtonIds": false
+        },
+        {
+          "Coordinates": [
+            397.0089111328125,
+            224.69343566894531
+          ],
+          "Map_Coordinates": [
+            0.5,
+            0.58333333333333337
+          ],
+          "Index": 42,
+          "LEDCount": 13,
+          "PositionCount": 13,
+          "LedsPerDetent": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": true,
+          "Type": 5,
+          "ReverseEncoderButtonIds": false
+        },
         {
           "Coordinates": [
             275.0,
@@ -362,19 +410,19 @@
             0.83333333333333337
           ],
           "Index": 20,
-          "LEDCount": 12,
-          "PositionCount": 12,
+          "LEDCount": 6,
+          "PositionCount": 6,
           "LedsPerDetent": 1,
           "InputIDs": [
-            36,
+            -1,
             -1,
             -1
           ],
           "SetupFlag": true,
           "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 5
+          "Type": 5,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -385,20 +433,20 @@
             0.5,
             0.83333333333333337
           ],
-          "Index": 32,
-          "LEDCount": 12,
-          "PositionCount": 12,
+          "Index": 39,
+          "LEDCount": 3,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
-            48,
+            -1,
             -1,
             -1
           ],
           "SetupFlag": true,
           "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 5
+          "Type": 2,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -409,20 +457,118 @@
             0.60000000000000009,
             0.83333333333333337
           ],
-          "Index": 44,
-          "LEDCount": 12,
-          "PositionCount": 12,
+          "Index": 55,
+          "LEDCount": 6,
+          "PositionCount": 6,
           "LedsPerDetent": 1,
           "InputIDs": [
-            60,
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": true,
+          "Type": 5,
+          "ReverseEncoderButtonIds": false
+        },
+        {
+          "Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Map_Coordinates": [
+            0.0,
+            0.0
+          ],
+          "Index": 0,
+          "LEDCount": 1,
+          "PositionCount": 1,
+          "LedsPerDetent": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": false,
+          "IsElement": false,
+          "AntiClockwiseEncoder": false,
+          "Type": 2,
+          "ReverseEncoderButtonIds": false
+        }
+      ],
+      "Telemetry": [
+        {
+          "Coordinates": [
+            230.0,
+            130.0
+          ],
+          "Map_Coordinates": [
+            0.25,
+            0.0
+          ],
+          "Index": 83,
+          "LEDCount": 1,
+          "PositionCount": 1,
+          "LedsPerDetent": 1,
+          "InputIDs": [
+            -1,
             -1,
             -1
           ],
           "SetupFlag": true,
           "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 5
+          "Type": 6,
+          "ReverseEncoderButtonIds": false
+        },
+        {
+          "Coordinates": [
+            234.33332824707031,
+            146.66667175292969
+          ],
+          "Map_Coordinates": [
+            0.25,
+            0.16666666666666666
+          ],
+          "Index": 82,
+          "LEDCount": 1,
+          "PositionCount": 1,
+          "LedsPerDetent": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 6,
+          "ReverseEncoderButtonIds": false
+        },
+        {
+          "Coordinates": [
+            238.66667175292969,
+            163.33332824707031
+          ],
+          "Map_Coordinates": [
+            0.25,
+            0.33333333333333331
+          ],
+          "Index": 81,
+          "LEDCount": 1,
+          "PositionCount": 1,
+          "LedsPerDetent": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 6,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -435,7 +581,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -445,180 +591,82 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 2
-        },
-        {
-          "Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Map_Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
-          "LedsPerDetent": 1,
-          "InputIDs": [
-            -1,
-            -1,
-            -1
-          ],
-          "SetupFlag": false,
-          "IsElement": false,
-          "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 2
-        },
-        {
-          "Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Map_Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
-          "LedsPerDetent": 1,
-          "InputIDs": [
-            -1,
-            -1,
-            -1
-          ],
-          "SetupFlag": false,
-          "IsElement": false,
-          "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 2
-        }
-      ],
-      "Telemetry": [
-        {
-          "Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Map_Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
-          "LedsPerDetent": 1,
-          "InputIDs": [
-            -1,
-            -1,
-            -1
-          ],
-          "SetupFlag": false,
-          "IsElement": false,
-          "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 6
-        },
-        {
-          "Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Map_Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
-          "LedsPerDetent": 1,
-          "InputIDs": [
-            -1,
-            -1,
-            -1
-          ],
-          "SetupFlag": false,
-          "IsElement": false,
-          "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 6
-        },
-        {
-          "Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Map_Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
-          "LedsPerDetent": 1,
-          "InputIDs": [
-            -1,
-            -1,
-            -1
-          ],
-          "SetupFlag": false,
-          "IsElement": false,
-          "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 6
-        },
-        {
-          "Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Map_Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
-          "LedsPerDetent": 1,
-          "InputIDs": [
-            -1,
-            -1,
-            -1
-          ],
-          "SetupFlag": false,
-          "IsElement": false,
-          "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 6
+          "Type": 6,
+          "ReverseEncoderButtonIds": false
         }
       ],
       "Telemetry2": [
         {
           "Coordinates": [
-            0.0,
-            0.0
+            470.0,
+            130.0
           ],
           "Map_Coordinates": [
-            0.0,
+            0.75,
             0.0
           ],
-          "Index": 0,
+          "Index": 96,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
             -1,
             -1
           ],
-          "SetupFlag": false,
-          "IsElement": false,
+          "SetupFlag": true,
+          "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 7
+          "Type": 7,
+          "ReverseEncoderButtonIds": false
+        },
+        {
+          "Coordinates": [
+            465.66665649414062,
+            146.66667175292969
+          ],
+          "Map_Coordinates": [
+            0.75,
+            0.16666666666666666
+          ],
+          "Index": 97,
+          "LEDCount": 1,
+          "PositionCount": 1,
+          "LedsPerDetent": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 7,
+          "ReverseEncoderButtonIds": false
+        },
+        {
+          "Coordinates": [
+            461.33334350585938,
+            163.33332824707031
+          ],
+          "Map_Coordinates": [
+            0.75,
+            0.33333333333333331
+          ],
+          "Index": 98,
+          "LEDCount": 1,
+          "PositionCount": 1,
+          "LedsPerDetent": 1,
+          "InputIDs": [
+            -1,
+            -1,
+            -1
+          ],
+          "SetupFlag": true,
+          "IsElement": true,
+          "AntiClockwiseEncoder": false,
+          "Type": 7,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -631,7 +679,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -641,56 +689,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 7
-        },
-        {
-          "Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Map_Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
-          "LedsPerDetent": 1,
-          "InputIDs": [
-            -1,
-            -1,
-            -1
-          ],
-          "SetupFlag": false,
-          "IsElement": false,
-          "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 7
-        },
-        {
-          "Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Map_Coordinates": [
-            0.0,
-            0.0
-          ],
-          "Index": 0,
-          "LEDCount": 1,
-          "PositionCount": 0,
-          "LedsPerDetent": 1,
-          "InputIDs": [
-            -1,
-            -1,
-            -1
-          ],
-          "SetupFlag": false,
-          "IsElement": false,
-          "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 7
+          "Type": 7,
+          "ReverseEncoderButtonIds": false
         }
       ],
       "RPM": [
@@ -703,9 +703,9 @@
             0.0,
             0.0
           ],
-          "Index": 0,
+          "Index": 84,
           "LEDCount": 12,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -715,8 +715,8 @@
           "SetupFlag": true,
           "IsElement": true,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -729,7 +729,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -739,8 +739,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -753,7 +753,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -763,8 +763,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -777,7 +777,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -787,8 +787,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -801,7 +801,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -811,8 +811,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -825,7 +825,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -835,8 +835,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -849,7 +849,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -859,8 +859,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -873,7 +873,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -883,8 +883,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -897,7 +897,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -907,8 +907,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -921,7 +921,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -931,8 +931,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -945,7 +945,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -955,8 +955,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -969,7 +969,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -979,8 +979,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -993,7 +993,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -1003,8 +1003,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -1017,7 +1017,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -1027,8 +1027,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -1041,7 +1041,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -1051,8 +1051,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         },
         {
           "Coordinates": [
@@ -1065,7 +1065,7 @@
           ],
           "Index": 0,
           "LEDCount": 1,
-          "PositionCount": 0,
+          "PositionCount": 1,
           "LedsPerDetent": 1,
           "InputIDs": [
             -1,
@@ -1075,8 +1075,8 @@
           "SetupFlag": false,
           "IsElement": false,
           "AntiClockwiseEncoder": false,
-          "ReverseEncoderButtonIds": false,
-          "Type": 9
+          "Type": 9,
+          "ReverseEncoderButtonIds": false
         }
       ]
     }
