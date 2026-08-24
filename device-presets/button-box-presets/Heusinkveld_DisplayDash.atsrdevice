@@ -1,0 +1,228 @@
+{
+  "deviceName": "ButtonBoxSetup",
+  "presetName": "",
+  "version": "2.3.0.4",
+  "deviceSettings": {
+    "RowCount": 4,
+    "VID": "30B7",
+    "PID": "100C",
+    "ElementsInRow": [
+      4,
+      4,
+      4,
+      5
+    ],
+    "ColumnOffsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "ElementInformation": [
+      {
+        "ElementType": 2,
+        "LEDIndex": 0,
+        "LEDCount": 1,
+        "InputID": [
+          21, 22, 0, 47, 68, 69
+        ],
+        "VerticalPosition": 0.0,
+        "HorizontalPosition": 0.0,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 2,
+        "LEDIndex": 1,
+        "LEDCount": 1,
+        "InputID": [
+          23, 24, 1, 48, 70, 71
+        ],
+        "VerticalPosition": 0.0,
+        "HorizontalPosition": 0.33333333333333331,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 2,
+        "LEDIndex": 2,
+        "LEDCount": 1,
+        "InputID": [
+          25, 26, 2, 49, 72, 73
+        ],
+        "VerticalPosition": 0.0,
+        "HorizontalPosition": 0.66666666666666663,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 2,
+        "LEDIndex": 3,
+        "LEDCount": 1,
+        "InputID": [
+          27, 28, 3, 50, 74, 75
+        ],
+        "VerticalPosition": 0.0,
+        "HorizontalPosition": 1.0,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 2,
+        "LEDIndex": 4,
+        "LEDCount": 1,
+        "InputID": [
+          29, 30, 4, 51, 76, 77
+        ],
+        "VerticalPosition": 0.33333333333333331,
+        "HorizontalPosition": 0.0,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 2,
+        "LEDIndex": 5,
+        "LEDCount": 1,
+        "InputID": [
+          31, 32, 5, 52, 78, 79
+        ],
+        "VerticalPosition": 0.33333333333333331,
+        "HorizontalPosition": 0.33333333333333331,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 2,
+        "LEDIndex": 6,
+        "LEDCount": 1,
+        "InputID": [
+          33, 34, 6, 53, 80, 81
+        ],
+        "VerticalPosition": 0.33333333333333331,
+        "HorizontalPosition": 0.66666666666666663,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 2,
+        "LEDIndex": 7,
+        "LEDCount": 1,
+        "InputID": [
+          35, 36, 7, 54, 82, 83
+        ],
+        "VerticalPosition": 0.33333333333333331,
+        "HorizontalPosition": 1.0,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 2,
+        "LEDIndex": 8,
+        "LEDCount": 1,
+        "InputID": [
+          37, 38, 8, 55, 84, 85
+        ],
+        "VerticalPosition": 0.66666666666666663,
+        "HorizontalPosition": 0.0,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 2,
+        "LEDIndex": 9,
+        "LEDCount": 1,
+        "InputID": [
+          39, 40, 9, 56, 86, 87
+        ],
+        "VerticalPosition": 0.66666666666666663,
+        "HorizontalPosition": 0.33333333333333331,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 2,
+        "LEDIndex": 10,
+        "LEDCount": 1,
+        "InputID": [
+          41, 42, 10, 57, 88, 89
+        ],
+        "VerticalPosition": 0.66666666666666663,
+        "HorizontalPosition": 0.66666666666666663,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 2,
+        "LEDIndex": 11,
+        "LEDCount": 1,
+        "InputID": [
+          43, 44, 11, 58, 90, 91
+        ],
+        "VerticalPosition": 0.66666666666666663,
+        "HorizontalPosition": 1.0,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 1,
+        "LEDIndex": 12,
+        "LEDCount": 1,
+        "InputID": [
+          12, 59, -1
+        ],
+        "VerticalPosition": 1.0,
+        "HorizontalPosition": 0.0,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 1,
+        "LEDIndex": 13,
+        "LEDCount": 1,
+        "InputID": [
+          13, 60, -1
+        ],
+        "VerticalPosition": 1.0,
+        "HorizontalPosition": 0.25,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 2,
+        "LEDIndex": 14,
+        "LEDCount": 1,
+        "InputID": [
+          20, 16, 17, 18, 19, 45, 46, 67, 63, 64, 65, 66, 92, 93
+        ],
+        "VerticalPosition": 1.0,
+        "HorizontalPosition": 0.5,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 1,
+        "LEDIndex": 15,
+        "LEDCount": 1,
+        "InputID": [
+          14, 61, -1
+        ],
+        "VerticalPosition": 1.0,
+        "HorizontalPosition": 0.75,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      },
+      {
+        "ElementType": 1,
+        "LEDIndex": 16,
+        "LEDCount": 1,
+        "InputID": [
+          15, 62, -1
+        ],
+        "VerticalPosition": 1.0,
+        "HorizontalPosition": 1.0,
+        "SetupFlag": true,
+        "CollisionFlag": false
+      }
+    ]
+  }
+}
